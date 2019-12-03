@@ -2,6 +2,7 @@
 
 def main(msg):
 <<<<<<< HEAD
+    // Another comment
     // adding a different coment
     print(msg)
 
